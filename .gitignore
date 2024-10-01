@@ -1,1 +1,5 @@
+# Ignore the virtual environment folder
 ai/
+
+# Ignore the .env file
+.env
