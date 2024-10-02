@@ -3,3 +3,6 @@ ai/
 
 # Ignore the .env file
 .env
+
+# Ignore the .cache_ggshield file
+.cache_ggshield
